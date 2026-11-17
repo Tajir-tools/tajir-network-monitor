@@ -26,5 +26,6 @@ Bash
 sudo apt-get update
 sudo apt-get install python3-scapy python3-requests python3-tk
 
-READ ME
+HOW TO RUN
+
 sudo python3 tajir_monitor.py
